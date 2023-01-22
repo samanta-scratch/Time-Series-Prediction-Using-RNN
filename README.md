@@ -3,7 +3,7 @@
 
 ## Overview
 - Predicted next time steps
-- Dataset made using `cosine function` 
+- Dataset made using 100 points and corresponding `cosine function` 
 - Achieved 0.0019 Mean Squared Error(MSE) using simple `Recurrent Neural Network`
 
 
