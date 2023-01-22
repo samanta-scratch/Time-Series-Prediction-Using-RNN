@@ -11,4 +11,5 @@
 - numpy
 - matplotlib
 
-
+## Algorithms
+Simple Recurrent Neural Network
