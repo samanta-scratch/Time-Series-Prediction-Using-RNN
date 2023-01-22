@@ -11,6 +11,10 @@
 - numpy
 - matplotlib
 
+## Result Visualization
+![image](https://user-images.githubusercontent.com/113231185/213911151-5e2aa743-907f-4b35-a1a4-ebded0dd488b.png)
+
+
 ## Algorithms
 Simple Recurrent Neural Network
 
