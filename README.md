@@ -19,6 +19,11 @@
 ## Algorithms
 Simple Recurrent Neural Network
 
+## Conclusions
+- Very first time series prediction is done with a Simple Rnn.
+- Time-series prediction can be applied to many tasks - weather forecasting or predicting the ebb and flow of stock market prices.
+- Predictions can also be generated much further in the future than just one-time step!
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
